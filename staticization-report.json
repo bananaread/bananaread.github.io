@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "project": "project-13087731",
+  "generated_at": "2026-08-20 13:25:51",
+  "chrome": "E:\\playwright-browsers\\chromium-1187\\chrome-win\\chrome.exe",
+  "routes": [
+    "/",
+    "/about",
+    "/contact",
+    "/series",
+    "/series/chi-yan-zhi-quan",
+    "/series/dou-shi-lie-shou",
+    "/series/fang-xue-hou-tian-tai",
+    "/series/ji-feng-xing-zhe",
+    "/series/lang-yan-zhan-ji",
+    "/series/liang-zi-hui-xiang",
+    "/series/man-tou-xia",
+    "/series/mao-yu-shao-nian",
+    "/series/mi-wu-dang-an",
+    "/series/shen-ye-zhen-tan-she",
+    "/series/xiao-liao-jiang-hu",
+    "/series/xing-ji-liu-lang-ji"
+  ],
+  "route_count": 16,
+  "missing_assets": []
+}
